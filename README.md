@@ -1,4 +1,4 @@
-# Task-manager<h1 align=center><b>Todo Manager🧑🏻‍💼</b></h1>
+<h1 align=center><b>Todo Manager🧑🏻‍💼</b></h1>
 
 Ushbu projectda sizning vazifangiz Todo App ya'ni Topshiriqlar uchun dastur yaratishingiz kerak.
 
